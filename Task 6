@@ -1,0 +1,212 @@
+Password Strength Evaluation Report
+
+Objective
+
+The objective of this task is to analyze the strength of given passwords based on length, complexity, character variety, and resistance to common password attacks. The results are documented for academic and cybersecurity learning purposes.
+
+
+---
+
+Passwords Evaluated
+
+P1: T$$46_=11sam//@247#
+
+P2: Yqtz!!3%%,gh6÷+72
+
+P3: p@@sword.com
+
+P4: Myhome1289.
+
+
+
+---
+
+Evaluation Criteria
+
+Each password was evaluated using the following parameters:
+
+Password length
+
+Uppercase letters
+
+Lowercase letters
+
+Numbers
+
+Special characters
+
+Presence of dictionary words or patterns
+
+
+
+---
+
+Password Analysis
+
+Password P1 Analysis
+
+Password: T$$46_=11sam//@247#
+
+Length: 18 characters
+
+Uppercase letters: Present
+
+Lowercase letters: Present
+
+Numbers: Present
+
+Special characters: Present
+
+Dictionary words: Partial ("sam")
+
+
+Strength Level:Strong
+
+Remarks:
+
+Good mix of character types
+
+Removing recognizable words would further improve security
+
+
+
+---
+
+Password P2 Analysis
+
+Password: Yqtz!!3%%,gh6÷+72
+
+Length: 17 characters
+
+Uppercase letters: Present
+
+Lowercase letters: Present
+
+Numbers: Present
+
+Special characters: Extensive usage
+
+Dictionary words: None
+
+
+Strength Level:Very Strong
+
+Remarks:
+
+High entropy password
+
+Very resistant to brute-force and dictionary attacks
+
+
+
+---
+
+Password P3 Analysis
+
+Password: p@@sword.com
+
+Length: 11 characters
+
+Uppercase letters: Not present
+
+Lowercase letters: Present
+
+Numbers: Not present
+
+Special characters: Present
+
+Dictionary words: Present ("password")
+
+
+Strength Level:Weak
+
+Remarks:
+
+Easily guessable pattern
+
+Highly vulnerable to dictionary attacks
+
+
+
+---
+
+Password P4 Analysis
+
+Password: Myhome1289.
+
+Length: 11 characters
+
+Uppercase letters: Present
+
+Lowercase letters: Present
+
+Numbers: Present
+
+Special characters: Limited
+
+Dictionary words: Present ("Myhome")
+
+
+Strength Level:Moderate
+
+Remarks:
+
+Predictable word-number pattern
+
+Needs more symbols and randomness
+
+
+
+---
+
+Comparison Table
+
+Password	Length	Complexity	Strength
+
+P1	18	High	Strong
+P2	17	Very High	Very Strong
+P3	11	Low	Weak
+P4	11	Medium	Moderate
+
+
+
+---
+
+Common Password Attacks
+
+Brute Force Attack
+
+Attempts all possible combinations
+
+Longer and complex passwords significantly increase attack time
+
+
+Dictionary Attack
+
+Uses common words and known passwords
+
+Passwords containing dictionary words are highly vulnerable
+
+
+
+---
+
+Best Practices for Strong Passwords
+
+Use passwords longer than 12 characters
+
+Combine uppercase, lowercase, numbers, and symbols
+
+Avoid dictionary words, names, and patterns
+
+Do not reuse passwords across platforms
+
+Use a password manager for secure storage
+
+
+
+---
+
+Conclusion
+
+Password complexity plays a critical role in cybersecurity. Passwords P1 and P2 demonstrate strong resistance to common attacks due to their length and character diversity. Passwords P3 and P4 are weaker due to predictable words and patterns and should be avoided for sensitive systems.
